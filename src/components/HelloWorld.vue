@@ -80,8 +80,9 @@
         </a>
       </li>
     </ul>
+    <h1>My second Deploy</h1>
+    <ul>
   </div>
-  <h1>My second Deploy</h1>
 </template>
 
 <script>
